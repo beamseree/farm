@@ -3,6 +3,7 @@
 This game is a console-based farming game, where the only way to interact with your farm is through console commands. The goal of the game is to obtain as much gold as possible by growing and selling your crops.
 
 To start, you may use the `help` command to get a list of all available commands.
+
     - `help`: displays all commands
     - `shop`: displays all commands
     - `help`: displays all commands
