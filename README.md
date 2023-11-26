@@ -5,10 +5,16 @@ This game is a console-based farming game, where the only way to interact with y
 To start, you may use the `help` command to get a list of all available commands.
 
 -   `help`: displays all commands
--   `shop`: displays all commands
--   `help`: displays all commands
--   `help`: displays all commands
--   `help`: displays all commands
+-   `shop`: displays buying and selling price of items
+-   `buy <item> <amount>`: buy items from the shop
+-   `sell <item> <amount>`: sell items from your bag
+-   `plant <x> <y>`: plants seed on a cell
+-   `water <x> <y>`: waters a cell
+-   `harvest <x> <y>`: harvest fully grown crop from a cell
+-   `info <x> <y>`: displays information of a cell
+-   `bag`: displays items in your bag
+-   `clear`: clears the console
+-   `time`: displays the time of the game
 
 ## Running Program
 
