@@ -4,11 +4,11 @@ This game is a console-based farming game, where the only way to interact with y
 
 To start, you may use the `help` command to get a list of all available commands.
 
-    - `help`: displays all commands
-    - `shop`: displays all commands
-    - `help`: displays all commands
-    - `help`: displays all commands
-    - `help`: displays all commands
+-   `help`: displays all commands
+-   `shop`: displays all commands
+-   `help`: displays all commands
+-   `help`: displays all commands
+-   `help`: displays all commands
 
 ## Running Program
 
