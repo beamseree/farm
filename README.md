@@ -16,6 +16,8 @@ To start, you may use the `help` command to get a list of all available commands
 -   `clear`: clears the console
 -   `time`: displays the time of the game
 
+You can also orbit around the farm by clicking and dragging.
+
 ## Running Program
 
 In the project directory, you can run:

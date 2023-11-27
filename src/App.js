@@ -122,7 +122,7 @@ function App() {
 
     const [output, setOutput] = useState([
         "%Welcome to the Farm",
-        '%Type "help" for to start'
+        '%Type "help" to start'
     ]);
 
     const addOutput = (line) => {
